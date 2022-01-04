@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb://127.0.0.1:27017/JWT",
+    "JWT_secret" :"b594fb1c90ea0a0c6c27a6204670e31e273c54463529d58ad12acd85053ba319ab46ff7a"
+}
